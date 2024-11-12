@@ -5,3 +5,4 @@ Wednesday
 Thursday
 Friday
 Saturday
+These are the names of the day
