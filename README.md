@@ -1,2 +1,1 @@
-# coursera-test
-coursera test repo
+Hey I am Jesper and I am doing my coursera lab assessment using this repo.
